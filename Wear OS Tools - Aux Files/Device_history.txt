@@ -1,0 +1,7 @@
+ 
+ ====================== 
+ DEVICE HISTORY LOG... 
+ ====================== 
+ 
+    Date       Time             IP Device                    Device 
+ Tue 08/06/2024 21:25:56.39       192.168.1.4        xiaomi Xiaomi Watch 2  
